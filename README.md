@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akyukii
-- 👀 I’m interested in web dev using HTML/CSS/JS, ml learning with Python, and game dev with C++.
+- 👀 I’m interested in Web Dev using HTML/CSS/JS, ML learning with Python (PyTorch), and game dev with C++.
 - 🌱 I’m currently learning React and creating a to-do tracker web app :>
 - 💞️ I’m looking to collaborate on any projects
 - 📫 How to reach me: at200611@gmail.com OR discord [cuppp#4269]
