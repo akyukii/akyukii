@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akyukii
-- 👀 I’m interested in Web App Dev using HTML/CSS/JS/Java, and ML learning with Python (PyTorch).
+- 👀 I’m interested in Web App Dev and ML learning with Python (PyTorch).
 - 🌱 I’m currently learning C++ in my university course.
-- 💞️ I’m looking to collaborate on any projects
+- 💞️ I’m looking to collaborate on ML/AI-related projects OR cloud-based applications
 - 📫 How to reach me: at200611@gmail.com OR discord [cuppp#4269]
 
 <!---
